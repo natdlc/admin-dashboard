@@ -89,7 +89,7 @@ input[type="search"] {
 }
 
 .header-upper-right > div:nth-child(2) > a {
-    background-image: url('/assets/images/merc.png');
+    background-image: url('./assets/images/merc.png');
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
